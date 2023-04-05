@@ -1,8 +1,6 @@
 
 # Hotstar_Clone
 
-Base-api : https://hotstar-v.herokuapp.com
-
 routes : 
 <ul>
     <li>/movies?language=[language]</li>
@@ -18,10 +16,6 @@ https://hotstar-v.herokuapp.com/search?q=[query]
 Project Clone: https://hotstar.com
 
 We have created the clone of the Hotstar.com
-
-Deployment Link: https://our-hotstar-project-vijendrasaini.vercel.app
-Blog Link:- https://medium.com/@prsjwaldhoble2000/clone-of-website-hotstar-b6794bbc1e7d
-
 
 ### Project:-
 In this project We have tried to make a look alike clone of Hotstar a video streaming Website. With our efforts and the technology stack, that we have learned in Masai School, we were able to clone the front end and backend as well.
@@ -66,20 +60,5 @@ CONCLUSION:
 It is our first project where we have to clone a website using react and it was very challenging but as a team we are very helping so if someone stuck the others are helping the one who stuck to figure out the solution.
 So, this was all from our side and we are delighted to work on similar kind of projects in future as well.
 
-## Team Members (Random sequence):
 
-### Prajwal Dhoble
-- Github : https://github.com/PrajwalDhoble
-
-### Vijendra Saini
-- Github :  https://github.com/vijendrasaini
-
-### Sachin Girish
-- Github : https://github.com/sac1010
-
-### Abhishek Choudhary
-- Github : https://github.com/abhich21
-
-### Sahil Munjhal
-- Github : https://github.com/SahilMunjhal
  
