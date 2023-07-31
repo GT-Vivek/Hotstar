@@ -32,7 +32,6 @@ In this project, I have tried to make a look-alike clone of Hotstar a video stre
 
 
 #### 3. Log In/Sign Up page
-![Log In/Sign Up page](https://github.com/abhich21/Hotstar-Clone/blob/main/Screenshots/Screenshot%20(2183).png)
 ![Log In/Sign Up page](https://github.com/abhich21/Hotstar-Clone/blob/main/Screenshots/Screenshot%20(2188).png)
 
 
